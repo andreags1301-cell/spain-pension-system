@@ -1,0 +1,13 @@
+# Conda environment for the Spain pension analysis.
+# Create it with:   conda env create -f environment.yml
+# Activate it with: conda activate spain-prension-system
+name: spain-pension-system
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pandas>=2.2
+  - numpy>=1.26
+  - matplotlib>=3.8
+  - openpyxl>=3.1
+  - pip
