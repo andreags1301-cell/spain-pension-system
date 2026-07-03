@@ -42,10 +42,10 @@ while the working-age population shrinks by ~8 million:
 rate almost doubles by 2050 — e.g. under medium adequacy (`b = 50%`) it rises
 from **16.4%** (2025) to **34.4%** (2050) before easing to **32.6%** (2070).
 
-**Sustainability & adequacy.** Public pension spending is projected to climb from
-~13% of GDP today to **16–17%** by 2050–2070 across sources. Meanwhile Spain's
-gross replacement rate (~**80%**) is well above the OECD average (~52%): the
-Spanish pension promise is socially generous but costly to sustain as Spain ages.
+**Sustainability & adequacy.** Public pension spending is projected to rise from
+around **13% of GDP** today to **16–17%** by 2050–2070. Spain's gross replacement
+rate, around **80%**, is far above the OECD average, around **52%**, making the
+system generous but increasingly costly to sustain as the population ages.
 
 **Conclusion.** Spain faces a joint problem of sustainability, adequacy and
 intergenerational credibility. The report argues for a gradual reform package —
